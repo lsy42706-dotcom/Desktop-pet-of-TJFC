@@ -1,0 +1,15 @@
+# .NET and IDE output
+bin/
+obj/
+dist/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local SDK download and copies of installed builds
+.dotnet/
+backup-*/
+
+# Locally packaged builds
+*.zip
